@@ -3,6 +3,6 @@
     public class RandomUsersObject
     {
 
-        public List<UserDataDTO> Results { get; set; }
+        public List<RandomUserDataDTO> Results { get; set; }
     }
 }
